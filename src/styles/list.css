@@ -1,0 +1,64 @@
+
+
+button{
+  cursor: pointer;
+}
+.list_heading
+{
+  text-align: center;
+}
+
+div p
+{
+  margin-left: 40px;
+}
+.add_table,.search_table
+{
+  width: 600px;
+  border-collapse: collapse;
+  margin-top: 100px;
+  margin-left: -100px;
+  
+}
+.count
+{
+  margin-top: 50px;
+  margin-left: -300px;
+}
+table tr{
+  
+background-color: royalblue;
+}
+table td{
+  padding: 10px;
+  color: white;
+  font-size: large;
+  text-align: center;
+}
+table th{
+  text-align: center;
+  color: yellow;
+}
+button{
+  color: red;
+  width: 100px;
+
+}
+
+span{
+  color: red;
+  
+}
+
+.list_main div
+{
+  display: flex;
+}
+.prod_heading1
+{
+  margin-left: 320px;
+}
+.prod_heading2
+{
+  margin-left: 40px;
+}
